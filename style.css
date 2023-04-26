@@ -18,6 +18,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  
 }
 
 .text {
@@ -54,6 +55,7 @@ section .para {
   background-image: url(./img/deniz1.jpg);
   min-height: 750px;
   color: aliceblue;
+ 
 }
 .container-2 {
   background-image: url(./img/kapadokya-da-gezilecek-yerler_168_1-1581790709.jpg);
