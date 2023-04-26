@@ -1,7 +1,6 @@
-# hw-parallax
-(Click)[https://ilkaybasboga.github.io/hw-parallax/]
 
-(https://ilkaybasboga.github.io/hw-parallax/)[Click]
+
+[Click](https://ilkaybasboga.github.io/hw-parallax/)
 
 # Project : Parallax Website 
 
@@ -24,7 +23,7 @@ I aimed to create a project parallax website.
 
 ## Expected Outcome
 
-![Project 003 Snapshot](Parallax.gif)
+![Project 003 Snapshot](parallax.gif)
 
 
 ## Steps to Solution
